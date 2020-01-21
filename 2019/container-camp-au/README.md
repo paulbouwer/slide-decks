@@ -13,4 +13,4 @@ Everyone within the cloud native world seems to be talking about service meshes,
 
 Which of them is best suited to the capabilities you actually require and how does each of them impact your performance profile? This talk will help you make sense of this landscape and best place you to make the appropriate decision for your environment.
 
-[Slide deck](Decoding-the-Service-Mesh-Landscape.pdf)
+- [Slide deck](Decoding-the-Service-Mesh-Landscape.pdf)
